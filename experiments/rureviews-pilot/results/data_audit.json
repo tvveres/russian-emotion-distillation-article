@@ -1,0 +1,15 @@
+{
+  "raw_rows": 90000,
+  "eligible_unique_rows": 78305,
+  "n": 480,
+  "length_range_chars": [
+    30,
+    500
+  ],
+  "original_sentiment_counts": {
+    "negative": 160,
+    "neutral": 160,
+    "positive": 160
+  },
+  "csv_sha256": "db226708d966a1506560136ef85b33ea326eaf6119465d4b1edb5bf9395330fd"
+}

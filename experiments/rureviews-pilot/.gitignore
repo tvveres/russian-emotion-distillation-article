@@ -1,0 +1,6 @@
+.venv/
+cache/
+reviews.csv
+*.log
+__pycache__/
+results/*.joblib

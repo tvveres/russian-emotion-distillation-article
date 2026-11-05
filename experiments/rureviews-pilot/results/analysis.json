@@ -1,0 +1,178 @@
+{
+  "teacher_annotation_seconds": 156.1804162898843,
+  "teacher_latency_median_seconds": 0.31949660450118245,
+  "teacher_latency_p95_seconds": 0.4328700954945816,
+  "teacher_backend": "MLX Metal, 4-bit",
+  "n_test_valid": 65,
+  "n_test_total": 80,
+  "source_sentiment_emotions": {
+    "negative": {
+      "n": 138,
+      "labels": {
+        "joy": 46,
+        "sadness": 109,
+        "surprise": 78,
+        "fear": 28,
+        "anger": 18
+      },
+      "empty": 0
+    },
+    "neutral": {
+      "n": 149,
+      "labels": {
+        "joy": 88,
+        "sadness": 86,
+        "surprise": 96,
+        "fear": 12,
+        "anger": 4
+      },
+      "empty": 0
+    },
+    "positive": {
+      "n": 108,
+      "labels": {
+        "joy": 99,
+        "sadness": 19,
+        "surprise": 68,
+        "fear": 1,
+        "anger": 2
+      },
+      "empty": 0
+    }
+  },
+  "baselines": {
+    "always_empty": {
+      "macro_f1": 0.0,
+      "micro_f1": 0.0,
+      "exact_match": 0.0
+    },
+    "train_majority": {
+      "macro_f1": 0.44486405409179863,
+      "micro_f1": 0.71875,
+      "exact_match": 0.015384615384615385
+    },
+    "constant_prevalence_tuned": {
+      "threshold": 0.1,
+      "labels": [
+        "joy",
+        "sadness",
+        "surprise",
+        "fear"
+      ],
+      "macro_f1": 0.4680524598889001,
+      "micro_f1": 0.6181818181818182,
+      "exact_match": 0.015384615384615385
+    }
+  },
+  "split_overlap_ids": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  },
+  "test_input_ids": [
+    84752,
+    25861,
+    569,
+    84294,
+    27944,
+    11154,
+    54880,
+    3809,
+    17697,
+    5774,
+    5791,
+    55187,
+    43580,
+    38628,
+    24070,
+    42217,
+    54673,
+    52945,
+    85870,
+    14560,
+    6969,
+    78987,
+    23882,
+    46021,
+    55398,
+    67494,
+    54187,
+    8003,
+    74592,
+    36033,
+    48911,
+    6915,
+    42256,
+    9769,
+    62564,
+    52625,
+    24706,
+    66377,
+    32680,
+    9922,
+    24681,
+    57996,
+    33465,
+    13205,
+    55821,
+    59314,
+    25363,
+    65555,
+    51004,
+    6901,
+    39069,
+    49406,
+    22730,
+    60385,
+    47009,
+    24679,
+    24758,
+    2050,
+    30228,
+    7313,
+    86281,
+    3433,
+    65983,
+    23573,
+    32948,
+    59173,
+    82911,
+    41894,
+    363,
+    34777,
+    84884,
+    61688,
+    16287,
+    27852,
+    39352,
+    12329,
+    7627,
+    62577,
+    71023,
+    15372
+  ],
+  "word_char_timing": {
+    "tfidf_word": {
+      "median_seconds": 0.0004785409983014688,
+      "p95_seconds": 0.000540545595868025,
+      "backend": "CPU",
+      "batch_size": 1
+    },
+    "tfidf_char": {
+      "median_seconds": 0.0005696249936590903,
+      "p95_seconds": 0.0008368839022296014,
+      "backend": "CPU",
+      "batch_size": 1
+    },
+    "rubert_frozen": {
+      "median_seconds": 0.002694667004107032,
+      "p95_seconds": 0.003730087501025991,
+      "backend": "cpu",
+      "batch_size": 1
+    }
+  },
+  "paired_bootstrap_rubert_minus_word_95ci": [
+    -0.05843507989635693,
+    0.09090447527381414
+  ]
+}

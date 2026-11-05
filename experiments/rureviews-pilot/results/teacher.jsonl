@@ -1,0 +1,480 @@
+{"id": 49371, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2935357500027749, "input_tokens": 190, "output_tokens": 7}
+{"id": 2147, "raw": "[\"surprise\", \"fear\", \"joy\"]", "valid": true, "labels": ["joy", "surprise", "fear"], "seconds": 0.4473915839989786, "input_tokens": 292, "output_tokens": 11}
+{"id": 59626, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31093637499725446, "input_tokens": 198, "output_tokens": 8}
+{"id": 9094, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.471424333001778, "input_tokens": 241, "output_tokens": 8}
+{"id": 59701, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3223391249994165, "input_tokens": 201, "output_tokens": 8}
+{"id": 14597, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2390711670013843, "input_tokens": 186, "output_tokens": 3}
+{"id": 40026, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3133011659956537, "input_tokens": 216, "output_tokens": 7}
+{"id": 11146, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.30916945899662096, "input_tokens": 216, "output_tokens": 8}
+{"id": 9213, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.27430495800217614, "input_tokens": 192, "output_tokens": 7}
+{"id": 17071, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31428316699748393, "input_tokens": 224, "output_tokens": 7}
+{"id": 28252, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.37897783299558796, "input_tokens": 283, "output_tokens": 8}
+{"id": 4888, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2995874170010211, "input_tokens": 206, "output_tokens": 7}
+{"id": 53512, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31676045899803285, "input_tokens": 209, "output_tokens": 8}
+{"id": 71258, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.2681105000010575, "input_tokens": 181, "output_tokens": 6}
+{"id": 73815, "raw": "[\"surprise\", \"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.46194062499853317, "input_tokens": 326, "output_tokens": 11}
+{"id": 19812, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.3166647079997347, "input_tokens": 197, "output_tokens": 8}
+{"id": 67241, "raw": "[\"joy\", \"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.38633754199690884, "input_tokens": 266, "output_tokens": 9}
+{"id": 51602, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.27983437499642605, "input_tokens": 190, "output_tokens": 7}
+{"id": 70398, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3470826249977108, "input_tokens": 247, "output_tokens": 7}
+{"id": 61946, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3216874169957009, "input_tokens": 202, "output_tokens": 7}
+{"id": 47136, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3592291250024573, "input_tokens": 240, "output_tokens": 7}
+{"id": 21776, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.34160766700370004, "input_tokens": 230, "output_tokens": 7}
+{"id": 23442, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3813023330003489, "input_tokens": 193, "output_tokens": 8}
+{"id": 11112, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.36938308300159406, "input_tokens": 268, "output_tokens": 8}
+{"id": 14631, "raw": "[\"surprise\", \"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "surprise", "anger"], "seconds": 0.3882367920014076, "input_tokens": 226, "output_tokens": 11}
+{"id": 37869, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3011825419962406, "input_tokens": 205, "output_tokens": 7}
+{"id": 56078, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3277199170042877, "input_tokens": 222, "output_tokens": 8}
+{"id": 16368, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2881760829986888, "input_tokens": 193, "output_tokens": 7}
+{"id": 28646, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.30751025000063237, "input_tokens": 196, "output_tokens": 7}
+{"id": 69586, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.34025254199514166, "input_tokens": 231, "output_tokens": 7}
+{"id": 89183, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31324750000203494, "input_tokens": 205, "output_tokens": 7}
+{"id": 19723, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.24278129099548096, "input_tokens": 182, "output_tokens": 3}
+{"id": 82835, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.29782479099958437, "input_tokens": 200, "output_tokens": 7}
+{"id": 80554, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.342118416003359, "input_tokens": 257, "output_tokens": 7}
+{"id": 16803, "raw": "[\"surprise\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.31054166599642485, "input_tokens": 194, "output_tokens": 8}
+{"id": 13601, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.28529833300126484, "input_tokens": 182, "output_tokens": 8}
+{"id": 45425, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.2879928749971441, "input_tokens": 185, "output_tokens": 4}
+{"id": 20907, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3202097920002416, "input_tokens": 196, "output_tokens": 7}
+{"id": 80148, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3484443330016802, "input_tokens": 233, "output_tokens": 7}
+{"id": 83762, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.23963199999707285, "input_tokens": 182, "output_tokens": 3}
+{"id": 85754, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3015610000002198, "input_tokens": 206, "output_tokens": 7}
+{"id": 80281, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.39245937499799766, "input_tokens": 276, "output_tokens": 10}
+{"id": 60789, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2775490420026472, "input_tokens": 190, "output_tokens": 7}
+{"id": 74473, "raw": "[\"surprise\", \"joy\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.39628758400067454, "input_tokens": 277, "output_tokens": 10}
+{"id": 88568, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3609217080011149, "input_tokens": 238, "output_tokens": 10}
+{"id": 42374, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.356241791996581, "input_tokens": 245, "output_tokens": 8}
+{"id": 13257, "raw": "[\"surprise\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3039152919955086, "input_tokens": 189, "output_tokens": 8}
+{"id": 58662, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3358552919962676, "input_tokens": 242, "output_tokens": 7}
+{"id": 34382, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.25157025000225985, "input_tokens": 185, "output_tokens": 4}
+{"id": 9965, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3468545420037117, "input_tokens": 235, "output_tokens": 7}
+{"id": 69361, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.24487470800522715, "input_tokens": 179, "output_tokens": 3}
+{"id": 15288, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2992632500026957, "input_tokens": 211, "output_tokens": 7}
+{"id": 79655, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.42108954199647997, "input_tokens": 317, "output_tokens": 10}
+{"id": 27876, "raw": "[\"surprise\", \"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.4060305830062134, "input_tokens": 275, "output_tokens": 12}
+{"id": 4165, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.30446658300206764, "input_tokens": 210, "output_tokens": 7}
+{"id": 51209, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2971539170030155, "input_tokens": 204, "output_tokens": 7}
+{"id": 88504, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3075562500016531, "input_tokens": 213, "output_tokens": 7}
+{"id": 81954, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.31443704100092873, "input_tokens": 203, "output_tokens": 7}
+{"id": 53121, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.295688500002143, "input_tokens": 187, "output_tokens": 7}
+{"id": 2057, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.260441833997902, "input_tokens": 187, "output_tokens": 4}
+{"id": 36022, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3184085410030093, "input_tokens": 199, "output_tokens": 7}
+{"id": 9956, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3171873749961378, "input_tokens": 195, "output_tokens": 8}
+{"id": 39697, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.33875133400579216, "input_tokens": 232, "output_tokens": 8}
+{"id": 53408, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3095852920014295, "input_tokens": 210, "output_tokens": 7}
+{"id": 52757, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3125605840032222, "input_tokens": 210, "output_tokens": 7}
+{"id": 23048, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3090211660019122, "input_tokens": 209, "output_tokens": 7}
+{"id": 73987, "raw": "[\"joy\", \"recommend\"]", "valid": false, "labels": [], "seconds": 0.26075637499889126, "input_tokens": 190, "output_tokens": 6}
+{"id": 39812, "raw": "[\"joy\", \"good\"]", "valid": false, "labels": [], "seconds": 0.2687285830033943, "input_tokens": 186, "output_tokens": 6}
+{"id": 64054, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31060099999740487, "input_tokens": 213, "output_tokens": 7}
+{"id": 81901, "raw": "[\"joy\", \"happy\", \"gratitude\"]", "valid": false, "labels": [], "seconds": 0.36782370799483033, "input_tokens": 235, "output_tokens": 10}
+{"id": 63363, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.35158824999962235, "input_tokens": 242, "output_tokens": 8}
+{"id": 70767, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3545349579944741, "input_tokens": 230, "output_tokens": 7}
+{"id": 37730, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.43845950000104494, "input_tokens": 312, "output_tokens": 10}
+{"id": 45995, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.341526584001258, "input_tokens": 247, "output_tokens": 7}
+{"id": 66299, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3392602079984499, "input_tokens": 226, "output_tokens": 7}
+{"id": 40561, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3090204170002835, "input_tokens": 203, "output_tokens": 7}
+{"id": 75675, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3407721670009778, "input_tokens": 230, "output_tokens": 7}
+{"id": 50830, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2743607919983333, "input_tokens": 184, "output_tokens": 7}
+{"id": 62100, "raw": "[\"disappointment\", \"disgust\"]", "valid": false, "labels": [], "seconds": 0.3212879159982549, "input_tokens": 194, "output_tokens": 9}
+{"id": 65820, "raw": "[\"joy\", \"size\"]", "valid": false, "labels": [], "seconds": 0.2999711250013206, "input_tokens": 203, "output_tokens": 6}
+{"id": 55550, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3123258330015233, "input_tokens": 220, "output_tokens": 7}
+{"id": 48056, "raw": "[\"joy\", \"sadness\", \"surprise\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.38800837499729823, "input_tokens": 258, "output_tokens": 11}
+{"id": 83522, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.35222816599707585, "input_tokens": 240, "output_tokens": 7}
+{"id": 54860, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3944999999948777, "input_tokens": 276, "output_tokens": 8}
+{"id": 2074, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3682182089978596, "input_tokens": 252, "output_tokens": 8}
+{"id": 80428, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.34360404199833283, "input_tokens": 244, "output_tokens": 7}
+{"id": 76276, "raw": "[\"joy\", \"happy\", \"surprise\", \"happy\", \"joy\"]", "valid": false, "labels": [], "seconds": 0.4271385409956565, "input_tokens": 240, "output_tokens": 16}
+{"id": 523, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.30618341700028395, "input_tokens": 201, "output_tokens": 7}
+{"id": 51365, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3048752910035546, "input_tokens": 220, "output_tokens": 7}
+{"id": 43411, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3713358339955448, "input_tokens": 263, "output_tokens": 8}
+{"id": 60410, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.2699208749982063, "input_tokens": 192, "output_tokens": 6}
+{"id": 8021, "raw": "[\"sadness\", \"失望\"]", "valid": false, "labels": [], "seconds": 0.27270612500433344, "input_tokens": 188, "output_tokens": 7}
+{"id": 24809, "raw": "[\"pain\", \"joy\"]", "valid": false, "labels": [], "seconds": 0.2975982079951791, "input_tokens": 198, "output_tokens": 6}
+{"id": 42082, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3431573329944513, "input_tokens": 242, "output_tokens": 7}
+{"id": 53013, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3940070000026026, "input_tokens": 276, "output_tokens": 8}
+{"id": 89596, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.4333221670021885, "input_tokens": 299, "output_tokens": 10}
+{"id": 60857, "raw": "[\"joy\", \"good\"]", "valid": false, "labels": [], "seconds": 0.3005785420027678, "input_tokens": 204, "output_tokens": 6}
+{"id": 27862, "raw": "[\"fear\", \"joy\"]", "valid": true, "labels": ["joy", "fear"], "seconds": 0.3127800410002237, "input_tokens": 206, "output_tokens": 7}
+{"id": 33390, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.24350850000337232, "input_tokens": 189, "output_tokens": 4}
+{"id": 2964, "raw": "[\"fear\", \"fear\"]", "valid": true, "labels": ["fear"], "seconds": 0.2838116670027375, "input_tokens": 192, "output_tokens": 8}
+{"id": 45227, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3079242919993703, "input_tokens": 198, "output_tokens": 7}
+{"id": 46635, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.33144954099407187, "input_tokens": 244, "output_tokens": 7}
+{"id": 86613, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.23963633400126128, "input_tokens": 184, "output_tokens": 3}
+{"id": 71633, "raw": "[\"joy\", \"good\"]", "valid": false, "labels": [], "seconds": 0.2679262079982436, "input_tokens": 191, "output_tokens": 6}
+{"id": 12514, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.2488478329978534, "input_tokens": 187, "output_tokens": 4}
+{"id": 24388, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3118932090001181, "input_tokens": 208, "output_tokens": 7}
+{"id": 15847, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3110922499981825, "input_tokens": 211, "output_tokens": 8}
+{"id": 89212, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3829959580034483, "input_tokens": 238, "output_tokens": 10}
+{"id": 63697, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.28235695899638813, "input_tokens": 185, "output_tokens": 6}
+{"id": 67280, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3653769999946235, "input_tokens": 259, "output_tokens": 7}
+{"id": 63605, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3148715409988654, "input_tokens": 220, "output_tokens": 7}
+{"id": 56993, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3213572919994476, "input_tokens": 214, "output_tokens": 8}
+{"id": 4088, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3142736669979058, "input_tokens": 203, "output_tokens": 8}
+{"id": 84964, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2994232499986538, "input_tokens": 204, "output_tokens": 7}
+{"id": 68051, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.38460187499731546, "input_tokens": 303, "output_tokens": 6}
+{"id": 75145, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3683902919947286, "input_tokens": 228, "output_tokens": 10}
+{"id": 66622, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.3313878749977448, "input_tokens": 236, "output_tokens": 6}
+{"id": 55783, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31190404199878685, "input_tokens": 213, "output_tokens": 8}
+{"id": 2822, "raw": "[\"surprise\", \"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.3921017920001759, "input_tokens": 255, "output_tokens": 12}
+{"id": 64695, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31002116599847795, "input_tokens": 220, "output_tokens": 7}
+{"id": 75596, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.32691154200438177, "input_tokens": 233, "output_tokens": 6}
+{"id": 82904, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2756334999940009, "input_tokens": 183, "output_tokens": 6}
+{"id": 84092, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2801619169986225, "input_tokens": 193, "output_tokens": 7}
+{"id": 51694, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.2783937920030439, "input_tokens": 185, "output_tokens": 8}
+{"id": 55415, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31913370799884433, "input_tokens": 214, "output_tokens": 8}
+{"id": 13804, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3343630419985857, "input_tokens": 214, "output_tokens": 10}
+{"id": 26004, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3089980000004289, "input_tokens": 213, "output_tokens": 7}
+{"id": 58882, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.29826766699989093, "input_tokens": 224, "output_tokens": 7}
+{"id": 58942, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3077630420011701, "input_tokens": 198, "output_tokens": 7}
+{"id": 56737, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3180086670035962, "input_tokens": 199, "output_tokens": 8}
+{"id": 65155, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.3004254170009517, "input_tokens": 208, "output_tokens": 6}
+{"id": 84748, "raw": "[\"joy\", \"surprise\", \"fear\"]", "valid": true, "labels": ["joy", "surprise", "fear"], "seconds": 0.3750589580013184, "input_tokens": 256, "output_tokens": 11}
+{"id": 70308, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.308796417004487, "input_tokens": 211, "output_tokens": 7}
+{"id": 39686, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.28098441600013757, "input_tokens": 190, "output_tokens": 7}
+{"id": 10530, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3495232080022106, "input_tokens": 241, "output_tokens": 8}
+{"id": 39343, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.3138707920006709, "input_tokens": 201, "output_tokens": 8}
+{"id": 38636, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3227393330016639, "input_tokens": 204, "output_tokens": 7}
+{"id": 34033, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3246221660010633, "input_tokens": 198, "output_tokens": 7}
+{"id": 16873, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.29439045800245367, "input_tokens": 190, "output_tokens": 8}
+{"id": 51516, "raw": "[\"surprise\", \"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.45424849999835715, "input_tokens": 322, "output_tokens": 11}
+{"id": 40736, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31053887500456767, "input_tokens": 195, "output_tokens": 7}
+{"id": 83257, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.2702180829946883, "input_tokens": 186, "output_tokens": 6}
+{"id": 43117, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.25129274999926565, "input_tokens": 188, "output_tokens": 4}
+{"id": 39032, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3022822080019978, "input_tokens": 211, "output_tokens": 7}
+{"id": 69697, "raw": "[\"surprise\", \"joy\", \"anger\"]", "valid": true, "labels": ["joy", "surprise", "anger"], "seconds": 0.3904700839993893, "input_tokens": 258, "output_tokens": 10}
+{"id": 79646, "raw": "[\"joy\", \"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.3324717919967952, "input_tokens": 214, "output_tokens": 9}
+{"id": 467, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.32071220799844014, "input_tokens": 214, "output_tokens": 8}
+{"id": 77474, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.42601029200159246, "input_tokens": 300, "output_tokens": 10}
+{"id": 25933, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3211254579946399, "input_tokens": 195, "output_tokens": 7}
+{"id": 82439, "raw": "[\"joy\", \"happy\", \"gratitude\", \"gratitude\"]", "valid": false, "labels": [], "seconds": 0.42741162500169594, "input_tokens": 235, "output_tokens": 14}
+{"id": 57450, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.306531083995651, "input_tokens": 198, "output_tokens": 7}
+{"id": 47300, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2976504580001347, "input_tokens": 198, "output_tokens": 6}
+{"id": 59111, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.30972858300083317, "input_tokens": 220, "output_tokens": 7}
+{"id": 5272, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3312309999964782, "input_tokens": 226, "output_tokens": 7}
+{"id": 20488, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2768495839991374, "input_tokens": 183, "output_tokens": 7}
+{"id": 33714, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3190972079974017, "input_tokens": 220, "output_tokens": 8}
+{"id": 35558, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.30727354200644186, "input_tokens": 208, "output_tokens": 7}
+{"id": 63495, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2943625420011813, "input_tokens": 217, "output_tokens": 6}
+{"id": 53914, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.24640250000084052, "input_tokens": 180, "output_tokens": 4}
+{"id": 71660, "raw": "[\"joy\", \"happy\", \"super\", \"recommend\", \"recommend\"]", "valid": false, "labels": [], "seconds": 0.44018691700330237, "input_tokens": 278, "output_tokens": 15}
+{"id": 68296, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.34983758299495094, "input_tokens": 236, "output_tokens": 7}
+{"id": 13495, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.36072941699967487, "input_tokens": 234, "output_tokens": 8}
+{"id": 77743, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.30397362500661984, "input_tokens": 204, "output_tokens": 6}
+{"id": 11269, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.3119975829977193, "input_tokens": 223, "output_tokens": 8}
+{"id": 76030, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.297331582994957, "input_tokens": 195, "output_tokens": 7}
+{"id": 31150, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.30901291700138245, "input_tokens": 199, "output_tokens": 7}
+{"id": 86783, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3411342079998576, "input_tokens": 237, "output_tokens": 7}
+{"id": 46996, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3118603340044501, "input_tokens": 204, "output_tokens": 7}
+{"id": 70504, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32935916599672055, "input_tokens": 232, "output_tokens": 7}
+{"id": 77156, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3099151249989518, "input_tokens": 220, "output_tokens": 7}
+{"id": 20508, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3635726659995271, "input_tokens": 258, "output_tokens": 7}
+{"id": 44662, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.31760312499682186, "input_tokens": 223, "output_tokens": 8}
+{"id": 68321, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.30660275000263937, "input_tokens": 202, "output_tokens": 7}
+{"id": 66770, "raw": "[\"joy\", \"happy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3746712919964921, "input_tokens": 226, "output_tokens": 9}
+{"id": 57373, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3534264589980012, "input_tokens": 236, "output_tokens": 7}
+{"id": 64461, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3681467499991413, "input_tokens": 244, "output_tokens": 10}
+{"id": 87704, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.29110070900060236, "input_tokens": 206, "output_tokens": 6}
+{"id": 11067, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.27543791700009024, "input_tokens": 193, "output_tokens": 7}
+{"id": 74331, "raw": "[\"joy\", \"good\"]", "valid": false, "labels": [], "seconds": 0.3170452090053004, "input_tokens": 208, "output_tokens": 6}
+{"id": 21093, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3661842080036877, "input_tokens": 237, "output_tokens": 8}
+{"id": 46573, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2559553750033956, "input_tokens": 179, "output_tokens": 3}
+{"id": 19792, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3036831249992247, "input_tokens": 190, "output_tokens": 8}
+{"id": 47847, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.33229770800244296, "input_tokens": 224, "output_tokens": 8}
+{"id": 42873, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.25860383400140563, "input_tokens": 180, "output_tokens": 4}
+{"id": 79598, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.31155649999709567, "input_tokens": 216, "output_tokens": 6}
+{"id": 54868, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.2847777080023661, "input_tokens": 193, "output_tokens": 8}
+{"id": 52079, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.29721812500065425, "input_tokens": 190, "output_tokens": 8}
+{"id": 9290, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3571087499949499, "input_tokens": 266, "output_tokens": 7}
+{"id": 72751, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.35504091700568097, "input_tokens": 244, "output_tokens": 7}
+{"id": 11297, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.28418316599709215, "input_tokens": 193, "output_tokens": 7}
+{"id": 49653, "raw": "[\"surprise\", \"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "surprise", "anger"], "seconds": 0.46255729199765483, "input_tokens": 325, "output_tokens": 11}
+{"id": 10281, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3068636250027339, "input_tokens": 194, "output_tokens": 7}
+{"id": 66706, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2327533339994261, "input_tokens": 182, "output_tokens": 3}
+{"id": 68026, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.27177587500045775, "input_tokens": 190, "output_tokens": 6}
+{"id": 80440, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3882678749941988, "input_tokens": 266, "output_tokens": 10}
+{"id": 70415, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3120504590042401, "input_tokens": 194, "output_tokens": 7}
+{"id": 57233, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.28665983300015796, "input_tokens": 200, "output_tokens": 4}
+{"id": 53158, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.27882729100383585, "input_tokens": 183, "output_tokens": 7}
+{"id": 39926, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.30214895899553085, "input_tokens": 203, "output_tokens": 7}
+{"id": 13522, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3172248330010916, "input_tokens": 208, "output_tokens": 8}
+{"id": 32490, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.23296675000165123, "input_tokens": 186, "output_tokens": 3}
+{"id": 23637, "raw": "[\"surprise\", \"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.39910687500378117, "input_tokens": 274, "output_tokens": 11}
+{"id": 83429, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3176565419998951, "input_tokens": 212, "output_tokens": 7}
+{"id": 8213, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.39482658299675677, "input_tokens": 276, "output_tokens": 8}
+{"id": 30630, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3214918329977081, "input_tokens": 218, "output_tokens": 7}
+{"id": 41773, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.27956670799903804, "input_tokens": 189, "output_tokens": 8}
+{"id": 11085, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.33414962499955436, "input_tokens": 236, "output_tokens": 7}
+{"id": 13850, "raw": "[\"surprise\", \"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.42942116699850885, "input_tokens": 309, "output_tokens": 11}
+{"id": 36693, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3104182499955641, "input_tokens": 202, "output_tokens": 7}
+{"id": 1336, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32088229099463206, "input_tokens": 207, "output_tokens": 8}
+{"id": 79437, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.32903033299953677, "input_tokens": 245, "output_tokens": 6}
+{"id": 12383, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.35195608300273307, "input_tokens": 234, "output_tokens": 8}
+{"id": 73675, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.27641891600069357, "input_tokens": 186, "output_tokens": 7}
+{"id": 77219, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.23846024999511428, "input_tokens": 183, "output_tokens": 3}
+{"id": 68044, "raw": "[\"joy\", \"good\"]", "valid": false, "labels": [], "seconds": 0.2996122920012567, "input_tokens": 209, "output_tokens": 6}
+{"id": 76263, "raw": "[\"joy\", \"thanks\"]", "valid": false, "labels": [], "seconds": 0.28036475000408245, "input_tokens": 181, "output_tokens": 6}
+{"id": 51317, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3603389159979997, "input_tokens": 228, "output_tokens": 8}
+{"id": 40541, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.34071479099657154, "input_tokens": 230, "output_tokens": 7}
+{"id": 34418, "raw": "[\"fear\", \"fear\"]", "valid": true, "labels": ["fear"], "seconds": 0.28092549999564653, "input_tokens": 183, "output_tokens": 8}
+{"id": 54178, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3162097089953022, "input_tokens": 200, "output_tokens": 8}
+{"id": 1806, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.24578075000317767, "input_tokens": 180, "output_tokens": 4}
+{"id": 44259, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.24137612499907846, "input_tokens": 181, "output_tokens": 3}
+{"id": 65023, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3692021660026512, "input_tokens": 279, "output_tokens": 7}
+{"id": 16246, "raw": "[\"sadness\", \"失望\"]", "valid": false, "labels": [], "seconds": 0.2815915829996811, "input_tokens": 190, "output_tokens": 7}
+{"id": 84152, "raw": "[\"joy\", \"satisfaction\"]", "valid": false, "labels": [], "seconds": 0.3118757080010255, "input_tokens": 212, "output_tokens": 7}
+{"id": 4783, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.28232108399970457, "input_tokens": 190, "output_tokens": 8}
+{"id": 35024, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3195517089989153, "input_tokens": 223, "output_tokens": 8}
+{"id": 18448, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.4354520409979159, "input_tokens": 237, "output_tokens": 8}
+{"id": 60237, "raw": "[\"joy\", \"positive_recommended\"]", "valid": false, "labels": [], "seconds": 0.3712239580054302, "input_tokens": 234, "output_tokens": 8}
+{"id": 19460, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.2885358749990701, "input_tokens": 187, "output_tokens": 7}
+{"id": 8069, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3761659590018098, "input_tokens": 269, "output_tokens": 8}
+{"id": 28942, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.2821229580004001, "input_tokens": 190, "output_tokens": 8}
+{"id": 57747, "raw": "[\"joy\", \"surprise\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.39066345900209853, "input_tokens": 276, "output_tokens": 11}
+{"id": 40511, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.308372417006467, "input_tokens": 202, "output_tokens": 7}
+{"id": 65251, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32210379199386807, "input_tokens": 221, "output_tokens": 8}
+{"id": 81820, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.27056266599538503, "input_tokens": 181, "output_tokens": 6}
+{"id": 27254, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.27984379100234946, "input_tokens": 190, "output_tokens": 8}
+{"id": 45094, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.311328957999649, "input_tokens": 212, "output_tokens": 7}
+{"id": 18724, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32160941600159276, "input_tokens": 221, "output_tokens": 8}
+{"id": 47465, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32457083299959777, "input_tokens": 195, "output_tokens": 8}
+{"id": 28554, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.32673233300010907, "input_tokens": 196, "output_tokens": 8}
+{"id": 45968, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32032462500501424, "input_tokens": 211, "output_tokens": 7}
+{"id": 9649, "raw": "[\"surprise\", \"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.4185276670032181, "input_tokens": 275, "output_tokens": 12}
+{"id": 10385, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.2540268750017276, "input_tokens": 186, "output_tokens": 4}
+{"id": 89541, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3429547920022742, "input_tokens": 255, "output_tokens": 7}
+{"id": 39916, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31828720799967414, "input_tokens": 225, "output_tokens": 8}
+{"id": 30360, "raw": "[\"XS\"]", "valid": false, "labels": [], "seconds": 0.27276720800000476, "input_tokens": 200, "output_tokens": 3}
+{"id": 31136, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3199788339989027, "input_tokens": 208, "output_tokens": 8}
+{"id": 61787, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3004836250038352, "input_tokens": 212, "output_tokens": 7}
+{"id": 86874, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.304242834004981, "input_tokens": 196, "output_tokens": 7}
+{"id": 24197, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2787093340011779, "input_tokens": 181, "output_tokens": 7}
+{"id": 17438, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31946474999858765, "input_tokens": 206, "output_tokens": 8}
+{"id": 61464, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3131974169955356, "input_tokens": 216, "output_tokens": 7}
+{"id": 80254, "raw": "[\"surprise\", \"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "surprise", "anger"], "seconds": 0.4197352079936536, "input_tokens": 289, "output_tokens": 11}
+{"id": 32145, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32341333299700636, "input_tokens": 206, "output_tokens": 7}
+{"id": 8813, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.2860355000011623, "input_tokens": 189, "output_tokens": 8}
+{"id": 22178, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.2459217499999795, "input_tokens": 189, "output_tokens": 4}
+{"id": 44474, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.30791754200618016, "input_tokens": 214, "output_tokens": 8}
+{"id": 81848, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3647936670022318, "input_tokens": 259, "output_tokens": 8}
+{"id": 59763, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3637927919990034, "input_tokens": 263, "output_tokens": 8}
+{"id": 20602, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2875082500031567, "input_tokens": 191, "output_tokens": 7}
+{"id": 33020, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3138569579969044, "input_tokens": 212, "output_tokens": 7}
+{"id": 72935, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.30032704200129956, "input_tokens": 209, "output_tokens": 6}
+{"id": 36764, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.27185800000006566, "input_tokens": 191, "output_tokens": 7}
+{"id": 83900, "raw": "[\"joy\", \"happy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.39218662500206847, "input_tokens": 240, "output_tokens": 13}
+{"id": 69441, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31656637499690987, "input_tokens": 212, "output_tokens": 8}
+{"id": 9169, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32132554199779406, "input_tokens": 222, "output_tokens": 8}
+{"id": 2832, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.299851874995511, "input_tokens": 199, "output_tokens": 7}
+{"id": 39957, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.2774719160006498, "input_tokens": 189, "output_tokens": 8}
+{"id": 36967, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.270999665997806, "input_tokens": 182, "output_tokens": 7}
+{"id": 73160, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3101814999972703, "input_tokens": 219, "output_tokens": 7}
+{"id": 1874, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3074959579971619, "input_tokens": 212, "output_tokens": 8}
+{"id": 55764, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.25105879199691117, "input_tokens": 184, "output_tokens": 4}
+{"id": 38225, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.31787962499947753, "input_tokens": 207, "output_tokens": 7}
+{"id": 41965, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31806691600650083, "input_tokens": 218, "output_tokens": 7}
+{"id": 55212, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2668020830024034, "input_tokens": 186, "output_tokens": 7}
+{"id": 65652, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.30651524999848334, "input_tokens": 211, "output_tokens": 7}
+{"id": 75665, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31223716699605575, "input_tokens": 210, "output_tokens": 7}
+{"id": 24095, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3369139579954208, "input_tokens": 239, "output_tokens": 7}
+{"id": 79860, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3281505830018432, "input_tokens": 233, "output_tokens": 7}
+{"id": 7652, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3538982079990092, "input_tokens": 231, "output_tokens": 8}
+{"id": 67895, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2937060830008704, "input_tokens": 184, "output_tokens": 7}
+{"id": 68529, "raw": "[\"joy\", \"legibility\", \"legth\"]", "valid": false, "labels": [], "seconds": 0.36165537500346545, "input_tokens": 220, "output_tokens": 11}
+{"id": 40457, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.24195541699737078, "input_tokens": 184, "output_tokens": 3}
+{"id": 47317, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31711962499684887, "input_tokens": 204, "output_tokens": 8}
+{"id": 33931, "raw": "[\"surprise\", \"disgust\"]", "valid": false, "labels": [], "seconds": 0.29479129199899035, "input_tokens": 185, "output_tokens": 9}
+{"id": 69736, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.29571333300555125, "input_tokens": 221, "output_tokens": 6}
+{"id": 78715, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3039370419937768, "input_tokens": 210, "output_tokens": 7}
+{"id": 73555, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.34012883299874375, "input_tokens": 255, "output_tokens": 6}
+{"id": 52751, "raw": "[\"SADNESS\", \"FEAR\", \"ANGER\"]", "valid": false, "labels": [], "seconds": 0.3567743339954177, "input_tokens": 220, "output_tokens": 12}
+{"id": 6179, "raw": "[\"S\", \"L\", \"S\"]", "valid": false, "labels": [], "seconds": 0.31763499999942724, "input_tokens": 207, "output_tokens": 9}
+{"id": 86190, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3103283329983242, "input_tokens": 209, "output_tokens": 7}
+{"id": 65320, "raw": "[\"joy\", \"recommendation\", \"recommendation\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.4407347500018659, "input_tokens": 267, "output_tokens": 15}
+{"id": 46820, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3267255410028156, "input_tokens": 207, "output_tokens": 7}
+{"id": 41217, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3233147499995539, "input_tokens": 194, "output_tokens": 8}
+{"id": 25092, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.28716754199558636, "input_tokens": 190, "output_tokens": 7}
+{"id": 77698, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2802760409977054, "input_tokens": 186, "output_tokens": 7}
+{"id": 44964, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2897749580006348, "input_tokens": 211, "output_tokens": 6}
+{"id": 81107, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.2656107919974602, "input_tokens": 193, "output_tokens": 6}
+{"id": 38981, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.31281112499709707, "input_tokens": 220, "output_tokens": 7}
+{"id": 45175, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.29858566699840594, "input_tokens": 213, "output_tokens": 7}
+{"id": 58428, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.28093362499930663, "input_tokens": 184, "output_tokens": 8}
+{"id": 34044, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.338004708995868, "input_tokens": 235, "output_tokens": 7}
+{"id": 63952, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2998215839979821, "input_tokens": 202, "output_tokens": 6}
+{"id": 47057, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3656475829993724, "input_tokens": 285, "output_tokens": 7}
+{"id": 474, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.26940233299683314, "input_tokens": 182, "output_tokens": 7}
+{"id": 13403, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.29978391700569773, "input_tokens": 187, "output_tokens": 8}
+{"id": 11916, "raw": "[\"surprise\", \"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.483222291994025, "input_tokens": 343, "output_tokens": 11}
+{"id": 23546, "raw": "[\"surprise\", \"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.3915813329949742, "input_tokens": 245, "output_tokens": 12}
+{"id": 63777, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.347154708004382, "input_tokens": 245, "output_tokens": 7}
+{"id": 45609, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.31288520799716935, "input_tokens": 212, "output_tokens": 7}
+{"id": 82284, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31088858300063293, "input_tokens": 219, "output_tokens": 7}
+{"id": 82921, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.29865166699892143, "input_tokens": 210, "output_tokens": 7}
+{"id": 6720, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.24824529200122925, "input_tokens": 190, "output_tokens": 4}
+{"id": 10139, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3086579999944661, "input_tokens": 195, "output_tokens": 7}
+{"id": 86978, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3668518749982468, "input_tokens": 277, "output_tokens": 7}
+{"id": 16497, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3036690829976578, "input_tokens": 210, "output_tokens": 7}
+{"id": 88865, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.275267958000768, "input_tokens": 186, "output_tokens": 7}
+{"id": 77433, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3181423749992973, "input_tokens": 199, "output_tokens": 7}
+{"id": 5639, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.32009658299648436, "input_tokens": 197, "output_tokens": 7}
+{"id": 22307, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3275584590010112, "input_tokens": 219, "output_tokens": 8}
+{"id": 861, "raw": "[\"surprise\", \"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.47153220800100826, "input_tokens": 334, "output_tokens": 12}
+{"id": 1325, "raw": "```json\n[\"surprise\", \"sadness\", \"joy\", \"fear\"]\n```", "valid": false, "labels": [], "seconds": 0.5086107500028447, "input_tokens": 314, "output_tokens": 19}
+{"id": 51460, "raw": "[\"surprise\", \"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.4569306659977883, "input_tokens": 326, "output_tokens": 11}
+{"id": 88697, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.30201991600188194, "input_tokens": 213, "output_tokens": 6}
+{"id": 4597, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3191363329970045, "input_tokens": 200, "output_tokens": 8}
+{"id": 5608, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.34664158299710834, "input_tokens": 249, "output_tokens": 7}
+{"id": 4610, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3048898749984801, "input_tokens": 222, "output_tokens": 7}
+{"id": 13544, "raw": "[\"surprise\", \"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.4075375829997938, "input_tokens": 277, "output_tokens": 11}
+{"id": 34375, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.37569000000075903, "input_tokens": 272, "output_tokens": 7}
+{"id": 13712, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.36378741699445527, "input_tokens": 229, "output_tokens": 8}
+{"id": 21429, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3278120000031777, "input_tokens": 207, "output_tokens": 8}
+{"id": 42352, "raw": "[\"joy\", \"fear\"]", "valid": true, "labels": ["joy", "fear"], "seconds": 0.2738311249995604, "input_tokens": 183, "output_tokens": 7}
+{"id": 59666, "raw": "[\"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3163799590038252, "input_tokens": 194, "output_tokens": 8}
+{"id": 13509, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32207804099743953, "input_tokens": 197, "output_tokens": 8}
+{"id": 64737, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3497631249992992, "input_tokens": 228, "output_tokens": 7}
+{"id": 21292, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3021612919983454, "input_tokens": 197, "output_tokens": 7}
+{"id": 79619, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.27917812499799766, "input_tokens": 188, "output_tokens": 7}
+{"id": 56314, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3128639159986051, "input_tokens": 218, "output_tokens": 8}
+{"id": 18340, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3408519999939017, "input_tokens": 243, "output_tokens": 7}
+{"id": 83511, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.37495312499959255, "input_tokens": 274, "output_tokens": 8}
+{"id": 75879, "raw": "[\"joy\", \"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.36236004200327443, "input_tokens": 244, "output_tokens": 9}
+{"id": 22940, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.30671429200447164, "input_tokens": 217, "output_tokens": 8}
+{"id": 48409, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.26721674999862444, "input_tokens": 189, "output_tokens": 6}
+{"id": 73584, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.33770958300010534, "input_tokens": 237, "output_tokens": 6}
+{"id": 52793, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.36171645799913676, "input_tokens": 231, "output_tokens": 8}
+{"id": 86436, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3213419160019839, "input_tokens": 203, "output_tokens": 7}
+{"id": 61864, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.30253375000029337, "input_tokens": 203, "output_tokens": 6}
+{"id": 15796, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3498110840009758, "input_tokens": 247, "output_tokens": 8}
+{"id": 88960, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.329758749998291, "input_tokens": 239, "output_tokens": 7}
+{"id": 41565, "raw": "[\"surprise\", \"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.43680058299651137, "input_tokens": 296, "output_tokens": 12}
+{"id": 21199, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3946237909985939, "input_tokens": 310, "output_tokens": 7}
+{"id": 34273, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3153528339971672, "input_tokens": 224, "output_tokens": 8}
+{"id": 67946, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.33967416700033937, "input_tokens": 237, "output_tokens": 7}
+{"id": 65750, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.30942558300012024, "input_tokens": 223, "output_tokens": 7}
+{"id": 52371, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.28693133300112095, "input_tokens": 181, "output_tokens": 8}
+{"id": 9440, "raw": "[\"surprise\", \"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.3937415830005193, "input_tokens": 234, "output_tokens": 12}
+{"id": 21320, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.36745425000117393, "input_tokens": 242, "output_tokens": 8}
+{"id": 86428, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3286410840009921, "input_tokens": 223, "output_tokens": 8}
+{"id": 75532, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2880007499989006, "input_tokens": 202, "output_tokens": 6}
+{"id": 70626, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.24458737499662675, "input_tokens": 192, "output_tokens": 4}
+{"id": 72309, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.34969262500089826, "input_tokens": 227, "output_tokens": 8}
+{"id": 36942, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31222854199586436, "input_tokens": 221, "output_tokens": 7}
+{"id": 79934, "raw": "[\"surprise\", \"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.4217882080047275, "input_tokens": 293, "output_tokens": 10}
+{"id": 3930, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.34856320800463436, "input_tokens": 245, "output_tokens": 8}
+{"id": 74012, "raw": "[\"surprise\", \"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.4601183749982738, "input_tokens": 307, "output_tokens": 14}
+{"id": 26765, "raw": "[\"surprise\", \"fear\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise", "fear"], "seconds": 0.4317943329951959, "input_tokens": 301, "output_tokens": 12}
+{"id": 42664, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32327025000267895, "input_tokens": 213, "output_tokens": 8}
+{"id": 76154, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3743778329953784, "input_tokens": 255, "output_tokens": 8}
+{"id": 23977, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.33233745799952885, "input_tokens": 224, "output_tokens": 8}
+{"id": 36518, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3043130829973961, "input_tokens": 216, "output_tokens": 7}
+{"id": 2619, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3106071250003879, "input_tokens": 198, "output_tokens": 7}
+{"id": 26839, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3025776249996852, "input_tokens": 203, "output_tokens": 7}
+{"id": 49269, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32986704199720407, "input_tokens": 239, "output_tokens": 7}
+{"id": 31888, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3191452079990995, "input_tokens": 216, "output_tokens": 8}
+{"id": 71662, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3127452920016367, "input_tokens": 220, "output_tokens": 7}
+{"id": 37447, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.31339099999604514, "input_tokens": 223, "output_tokens": 7}
+{"id": 14182, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.29763370800355915, "input_tokens": 200, "output_tokens": 7}
+{"id": 42240, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.34433816700038733, "input_tokens": 250, "output_tokens": 7}
+{"id": 20304, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32531925000512274, "input_tokens": 207, "output_tokens": 8}
+{"id": 11701, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3488245000044117, "input_tokens": 235, "output_tokens": 7}
+{"id": 71113, "raw": "[\"joy\", \"happy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3201578750013141, "input_tokens": 216, "output_tokens": 9}
+{"id": 74886, "raw": "[\"joy\", \"good\"]", "valid": false, "labels": [], "seconds": 0.27342654099629726, "input_tokens": 186, "output_tokens": 6}
+{"id": 33619, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3321979169995757, "input_tokens": 210, "output_tokens": 8}
+{"id": 69899, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2630603750003502, "input_tokens": 187, "output_tokens": 6}
+{"id": 83399, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.34417687500535976, "input_tokens": 228, "output_tokens": 7}
+{"id": 48885, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.36355279199779034, "input_tokens": 272, "output_tokens": 7}
+{"id": 10685, "raw": "[\"surprise\", \"fear\"]", "valid": true, "labels": ["surprise", "fear"], "seconds": 0.36129233300016494, "input_tokens": 252, "output_tokens": 8}
+{"id": 87258, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.29890120799973374, "input_tokens": 195, "output_tokens": 7}
+{"id": 14124, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3101228339946829, "input_tokens": 218, "output_tokens": 8}
+{"id": 10781, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3137952090037288, "input_tokens": 196, "output_tokens": 8}
+{"id": 80365, "raw": "[\"joy\", \"surprise\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.33011241600615904, "input_tokens": 222, "output_tokens": 10}
+{"id": 1623, "raw": "[\"urge\", \"fear\", \"fear\"]", "valid": false, "labels": [], "seconds": 0.3583884580002632, "input_tokens": 208, "output_tokens": 11}
+{"id": 74385, "raw": "[\"sadness\", \"disappointment\", \"disgust\"]", "valid": false, "labels": [], "seconds": 0.45095937499718275, "input_tokens": 274, "output_tokens": 13}
+{"id": 24912, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.33775891700497596, "input_tokens": 206, "output_tokens": 8}
+{"id": 32538, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.2654409159949864, "input_tokens": 189, "output_tokens": 4}
+{"id": 33957, "raw": "[\"sadness\", \"joy\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.29208466600539396, "input_tokens": 186, "output_tokens": 7}
+{"id": 60625, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3410618749985588, "input_tokens": 231, "output_tokens": 6}
+{"id": 15122, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.37918508399889106, "input_tokens": 256, "output_tokens": 8}
+{"id": 19324, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.32412283399753505, "input_tokens": 207, "output_tokens": 8}
+{"id": 84752, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.4222022499961895, "input_tokens": 262, "output_tokens": 10}
+{"id": 25861, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.37910341599490494, "input_tokens": 269, "output_tokens": 8}
+{"id": 569, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3196014589993865, "input_tokens": 200, "output_tokens": 7}
+{"id": 84294, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.314628874999471, "input_tokens": 209, "output_tokens": 7}
+{"id": 27944, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3052416249993257, "input_tokens": 207, "output_tokens": 7}
+{"id": 11154, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.311765792001097, "input_tokens": 223, "output_tokens": 8}
+{"id": 54880, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.3171186250037863, "input_tokens": 222, "output_tokens": 6}
+{"id": 3809, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32874037500005215, "input_tokens": 221, "output_tokens": 7}
+{"id": 17697, "raw": "[\"surprise\", \"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "surprise", "anger"], "seconds": 0.4723969170008786, "input_tokens": 331, "output_tokens": 11}
+{"id": 5774, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.24433329200110165, "input_tokens": 186, "output_tokens": 4}
+{"id": 5791, "raw": "[\"sadness\", \"obedience\"]", "valid": false, "labels": [], "seconds": 0.3252073749972624, "input_tokens": 196, "output_tokens": 9}
+{"id": 55187, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3066058330005035, "input_tokens": 202, "output_tokens": 7}
+{"id": 43580, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2984910419982043, "input_tokens": 200, "output_tokens": 7}
+{"id": 38628, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2761145000040415, "input_tokens": 187, "output_tokens": 7}
+{"id": 24070, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3199305000016466, "input_tokens": 205, "output_tokens": 8}
+{"id": 42217, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2768324999997276, "input_tokens": 191, "output_tokens": 7}
+{"id": 54673, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.2579997499997262, "input_tokens": 193, "output_tokens": 6}
+{"id": 52945, "raw": "[\"surprise\", \"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness", "surprise"], "seconds": 0.3978039169960539, "input_tokens": 280, "output_tokens": 11}
+{"id": 85870, "raw": "[\"joy\", \"satisfaction\", \"satisfaction\"]", "valid": false, "labels": [], "seconds": 0.38690220799617236, "input_tokens": 238, "output_tokens": 11}
+{"id": 14560, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.2897097090026364, "input_tokens": 193, "output_tokens": 7}
+{"id": 6969, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3802383330039447, "input_tokens": 288, "output_tokens": 7}
+{"id": 78987, "raw": "[\"joy\", \"satisfaction\", \"satisfaction\"]", "valid": false, "labels": [], "seconds": 0.43241058299463475, "input_tokens": 297, "output_tokens": 11}
+{"id": 23882, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.3415729170010309, "input_tokens": 240, "output_tokens": 8}
+{"id": 46021, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.34937979199457914, "input_tokens": 245, "output_tokens": 8}
+{"id": 55398, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.2825111670026672, "input_tokens": 189, "output_tokens": 8}
+{"id": 67494, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.2753481670006295, "input_tokens": 185, "output_tokens": 7}
+{"id": 54187, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.27440724999905797, "input_tokens": 190, "output_tokens": 7}
+{"id": 8003, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3466978750002454, "input_tokens": 228, "output_tokens": 8}
+{"id": 74592, "raw": "[\"joy\", \"surprise\", \"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.4898078749974957, "input_tokens": 329, "output_tokens": 14}
+{"id": 36033, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.30051716700108955, "input_tokens": 203, "output_tokens": 7}
+{"id": 48911, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2507316249975702, "input_tokens": 182, "output_tokens": 3}
+{"id": 6915, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.2651592920010444, "input_tokens": 187, "output_tokens": 4}
+{"id": 42256, "raw": "[\"joy\", \"fear\"]", "valid": true, "labels": ["joy", "fear"], "seconds": 0.3510570829967037, "input_tokens": 226, "output_tokens": 7}
+{"id": 9769, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3504582079985994, "input_tokens": 254, "output_tokens": 8}
+{"id": 62564, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3418203330002143, "input_tokens": 240, "output_tokens": 7}
+{"id": 52625, "raw": "[\"disappointment\", \"discomfort\", \"disenchantment\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.5010541250012466, "input_tokens": 301, "output_tokens": 17}
+{"id": 24706, "raw": "[\"sadness\", \"fear\"]", "valid": true, "labels": ["sadness", "fear"], "seconds": 0.3688674169970909, "input_tokens": 273, "output_tokens": 8}
+{"id": 66377, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.3040391250033281, "input_tokens": 215, "output_tokens": 6}
+{"id": 32680, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.31144108400621917, "input_tokens": 198, "output_tokens": 7}
+{"id": 9922, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31996220799919683, "input_tokens": 216, "output_tokens": 8}
+{"id": 24681, "raw": "[\"sadness\", \"disappointment\", \"disenchantment\"]", "valid": false, "labels": [], "seconds": 0.4062556670032791, "input_tokens": 262, "output_tokens": 13}
+{"id": 57996, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.36528529199858895, "input_tokens": 275, "output_tokens": 7}
+{"id": 33465, "raw": "[\"surprise\"]", "valid": true, "labels": ["surprise"], "seconds": 0.25205149999965215, "input_tokens": 179, "output_tokens": 4}
+{"id": 13205, "raw": "[\"sadness\", \"joy\", \"surprise\", \"fear\"]", "valid": true, "labels": ["joy", "sadness", "surprise", "fear"], "seconds": 0.4416008329935721, "input_tokens": 281, "output_tokens": 15}
+{"id": 55821, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.350024334002228, "input_tokens": 252, "output_tokens": 8}
+{"id": 59314, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.28274370900180656, "input_tokens": 190, "output_tokens": 7}
+{"id": 25363, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3220632500015199, "input_tokens": 216, "output_tokens": 8}
+{"id": 65555, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.30031108299590414, "input_tokens": 211, "output_tokens": 7}
+{"id": 51004, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3564029999979539, "input_tokens": 262, "output_tokens": 7}
+{"id": 6901, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3608376250049332, "input_tokens": 260, "output_tokens": 7}
+{"id": 39069, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3866337500003283, "input_tokens": 283, "output_tokens": 8}
+{"id": 49406, "raw": "[\"sadness\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.28333583300263854, "input_tokens": 189, "output_tokens": 8}
+{"id": 22730, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.43023741600336507, "input_tokens": 328, "output_tokens": 7}
+{"id": 60385, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32423137500154553, "input_tokens": 206, "output_tokens": 7}
+{"id": 47009, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3284118750016205, "input_tokens": 208, "output_tokens": 8}
+{"id": 24679, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.3184994170005666, "input_tokens": 211, "output_tokens": 7}
+{"id": 24758, "raw": "[\"sadness\", \"anger\"]", "valid": true, "labels": ["sadness", "anger"], "seconds": 0.31353683400084265, "input_tokens": 221, "output_tokens": 7}
+{"id": 2050, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.2704672079999, "input_tokens": 196, "output_tokens": 4}
+{"id": 30228, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3084904589995858, "input_tokens": 210, "output_tokens": 7}
+{"id": 7313, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.31176104200130794, "input_tokens": 207, "output_tokens": 7}
+{"id": 86281, "raw": "[\"joy\", \"recommendation\"]", "valid": false, "labels": [], "seconds": 0.3082146250017104, "input_tokens": 218, "output_tokens": 7}
+{"id": 3433, "raw": "[\"fear\", \"discomfort\"]", "valid": false, "labels": [], "seconds": 0.2808294170026784, "input_tokens": 186, "output_tokens": 8}
+{"id": 65983, "raw": "[\"joy\", \"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2671424170039245, "input_tokens": 189, "output_tokens": 6}
+{"id": 23573, "raw": "[\"sadness\"]", "valid": true, "labels": ["sadness"], "seconds": 0.2820032499948866, "input_tokens": 197, "output_tokens": 4}
+{"id": 32948, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.28588583300006576, "input_tokens": 193, "output_tokens": 8}
+{"id": 59173, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3001807920009014, "input_tokens": 220, "output_tokens": 7}
+{"id": 82911, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.32391558299423195, "input_tokens": 219, "output_tokens": 7}
+{"id": 41894, "raw": "[\"joy\", \"sadness\"]", "valid": true, "labels": ["joy", "sadness"], "seconds": 0.3573515000025509, "input_tokens": 236, "output_tokens": 7}
+{"id": 363, "raw": "[\"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3230805830025929, "input_tokens": 209, "output_tokens": 7}
+{"id": 34777, "raw": "[\"joy\", \"surprise\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.3065724580010283, "input_tokens": 210, "output_tokens": 7}
+{"id": 84884, "raw": "[\"joy\"]", "valid": true, "labels": ["joy"], "seconds": 0.2387180410005385, "input_tokens": 184, "output_tokens": 3}
+{"id": 61688, "raw": "[\"joy\", \"happy\"]", "valid": false, "labels": [], "seconds": 0.274087874997349, "input_tokens": 184, "output_tokens": 6}
+{"id": 16287, "raw": "[\"surprise\", \"disappointment\"]", "valid": false, "labels": [], "seconds": 0.32285037499968894, "input_tokens": 197, "output_tokens": 8}
+{"id": 27852, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.306490291004593, "input_tokens": 197, "output_tokens": 8}
+{"id": 39352, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3706653749977704, "input_tokens": 265, "output_tokens": 8}
+{"id": 12329, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3231599579958129, "input_tokens": 213, "output_tokens": 8}
+{"id": 7627, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.31939175000297837, "input_tokens": 200, "output_tokens": 8}
+{"id": 62577, "raw": "[\"joy\", \"recommend\"]", "valid": false, "labels": [], "seconds": 0.26235629199800314, "input_tokens": 192, "output_tokens": 6}
+{"id": 71023, "raw": "[\"joy\", \"surprise\", \"joy\"]", "valid": true, "labels": ["joy", "surprise"], "seconds": 0.33840333400439704, "input_tokens": 208, "output_tokens": 10}
+{"id": 15372, "raw": "[\"surprise\", \"sadness\"]", "valid": true, "labels": ["sadness", "surprise"], "seconds": 0.3733661660007783, "input_tokens": 280, "output_tokens": 8}

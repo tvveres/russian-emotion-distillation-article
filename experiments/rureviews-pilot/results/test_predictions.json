@@ -1,0 +1,2051 @@
+[
+  {
+    "id": 84752,
+    "text": "Спасибо. На рос 42 (45 кг) заказала S, села жилетка отлично (немного запас в груди, ОГ 86 см). Длина на рост 154 см в самый раз. Материал плотный, стоячий (баска стоит). Доставка быстрая. Без запаха. Советую!",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 84752,
+      "raw": "[\"joy\", \"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.4222022499961895,
+      "input_tokens": 262,
+      "output_tokens": 10
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 25861,
+    "text": "Девчонки платье плохое, не тратьте зря деньги, хоть и небольшие.  Ткань синтетика не дышит совсем, одеваешь становится жарко. Сшито как мешок, рукова кривые, горловина тоже. Короче недовольна, можно разве что на помойку повесить, может кому пригодиться.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 25861,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.37910341599490494,
+      "input_tokens": 269,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 569,
+    "text": "Штаны приятные к телу,но не такие как на фото,если носить то только под штаны.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 569,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.3196014589993865,
+      "input_tokens": 200,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 84294,
+    "text": "немного коротковата, но в целом хорошенькая куртка, особенно для такой цены. шла месяц до Белгорода, как раз к холодам)",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 84294,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.314628874999471,
+      "input_tokens": 209,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 27944,
+    "text": "Товар не получила. Ждала с 01.08.2017 в октябре открыл спор. Деньги вернули",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 27944,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.3052416249993257,
+      "input_tokens": 207,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness"
+    ],
+    "tfidf_char": [
+      "sadness"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "anger"
+    ]
+  },
+  {
+    "id": 11154,
+    "text": "Ужасный продавец , заказала 2 футболки , в итоге не успела забрать на почте , из за отпуска , отослали обратно , продавец отказался вернуть деньги ",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 11154,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.311765792001097,
+      "input_tokens": 223,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "fear",
+      "anger"
+    ]
+  },
+  {
+    "id": 54880,
+    "text": "рубашка понравилась , размер который заказывала такой пришел подошел идеально. Довольна, Ожидала худшее качество за такую цену. Стоимость товара и качество соответствуют.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 54880,
+      "raw": "[\"joy\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy"
+      ],
+      "seconds": 0.3171186250037863,
+      "input_tokens": 222,
+      "output_tokens": 6
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 3809,
+    "text": "Ужасное качество ! Розовая пижама окрасила все вещи в машинке ! Стало серо- фиолетовой ! Ужас ! Никогда не заказывайте этот товар ! ",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 3809,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.32874037500005215,
+      "input_tokens": 221,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "rubert_frozen": [
+      "fear"
+    ]
+  },
+  {
+    "id": 17697,
+    "text": "Расцветка красивая, ткань приятная, но сшита просто ужасно, пропуски стежков, кривые строчки, откуда у китайских швей только руки растут?! Про торчащие нитки я не говорю, их можно обрезать. Заказывала размер XL,  не комфортно, на мои параметры 95-75-102 нужно на размер больше.  С продавцом не общалась, доставка стандартная. Носить точно не буду, выброшенные деньги, сама виновата, качественный товар  стоил бы подороже. ",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 17697,
+      "raw": "[\"surprise\", \"sadness\", \"anger\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise",
+        "anger"
+      ],
+      "seconds": 0.4723969170008786,
+      "input_tokens": 331,
+      "output_tokens": 11
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 5774,
+    "text": "не получила товар. спор продавец не хотел открывать.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 5774,
+      "raw": "[\"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness"
+      ],
+      "seconds": 0.24433329200110165,
+      "input_tokens": 186,
+      "output_tokens": 4
+    },
+    "tfidf_word": [
+      "sadness",
+      "fear"
+    ],
+    "tfidf_char": [
+      "sadness",
+      "fear"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "anger"
+    ]
+  },
+  {
+    "id": 55187,
+    "text": "меховой воротник у куртки отсутствует.подойдет для теплой погоды ,до -7 .",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 55187,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.3066058330005035,
+      "input_tokens": 202,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 43580,
+    "text": "Заказала как всегда свой размер М ,а пришло как на размер 50,можно было спокойно заказывать S",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 43580,
+      "raw": "[\"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.2984910419982043,
+      "input_tokens": 200,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 38628,
+    "text": "Заказала синий цвет, а пришел золотой",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 38628,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.2761145000040415,
+      "input_tokens": 187,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 42217,
+    "text": "прикольная ковточка только одно\r\n но с низу нет швов",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 42217,
+      "raw": "[\"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.2768324999997276,
+      "input_tokens": 191,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "surprise"
+    ]
+  },
+  {
+    "id": 52945,
+    "text": "Трек отслеживался до самой почты,заказ пришел за 3 недели.Но к сожалению юбка не подошла по размеру...На талию 80 и бедра 105 юбка не подошла(я все же надеялась на чудо,но увы и ах).По качеству юбка хорошая,ткань похожа \"под замшу\"",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 52945,
+      "raw": "[\"surprise\", \"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3978039169960539,
+      "input_tokens": 280,
+      "output_tokens": 11
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 14560,
+    "text": "Размерной сетке не соответствует. Маломерит. И очень коротюсенькая.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 14560,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.2897097090026364,
+      "input_tokens": 193,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "surprise"
+    ]
+  },
+  {
+    "id": 6969,
+    "text": "Заказ так и не пришёл! ( \r\nПродавец обещал, что придёт, продлял защиту, я ждала больше двух месяцев. Не заметила, что последний раз он не продлил защиту и вот он теперь с моими деньгами а я так посылку и не получила. Я очень расстроена.  Спрашивается и зачем я платила за доставку, чтобы не получить работающего  трекномера и чтобы меня кинули?!",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 6969,
+      "raw": "[\"sadness\", \"anger\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "anger"
+      ],
+      "seconds": 0.3802383330039447,
+      "input_tokens": 288,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "anger"
+    ],
+    "tfidf_char": [
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "anger"
+    ]
+  },
+  {
+    "id": 46021,
+    "text": "пижама тоненькая, синтетика, но приятная к телу. но меня смутило, что мужская пижама такая маленькая. штаны на рост 160 максимум. за это снижают оценку, так как заказывала мужу.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 46021,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.34937979199457914,
+      "input_tokens": 245,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 55398,
+    "text": "Качество не очень, сидит ужасно, не советую...",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 55398,
+      "raw": "[\"sadness\", \"fear\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "fear"
+      ],
+      "seconds": 0.2825111670026672,
+      "input_tokens": 189,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "fear"
+    ]
+  },
+  {
+    "id": 67494,
+    "text": "супер быстро все пришло,и качество супер!!!",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 67494,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.2753481670006295,
+      "input_tokens": 185,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "fear"
+    ]
+  },
+  {
+    "id": 54187,
+    "text": "Не пришло,деньги вернула только с помощью алиэкспресс",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 54187,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.27440724999905797,
+      "input_tokens": 190,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "anger"
+    ]
+  },
+  {
+    "id": 8003,
+    "text": "Заказывала черный, получила синий; заказала размер L- по этикетке соответствует, но реально s. М одеть быть подойдет на невысокую девушку до 160, с размером А.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 8003,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3466978750002454,
+      "input_tokens": 228,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 74592,
+    "text": "Доставка в Тюмень 3 недели, трек везде отслеживается, когда товар поступил на мою почту- пришло смс на телефон. Платье красивое и качественное! Пошито аккуратно, тянется, по низу платья и по краю рукавов сделано волнистой вязкой очень красиво. Цвет розовый совсем чуть темнее чем на картинке. Мой размер 42/44 - село хорошо, но оно Подойдет и на 46/48, тянется спокойно. Прекрасное платье, рекомендую!",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 74592,
+      "raw": "[\"joy\", \"surprise\", \"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.4898078749974957,
+      "input_tokens": 329,
+      "output_tokens": 14
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 36033,
+    "text": "бюстгальтер не подошёл. Выбирал по каталогу. Трусы подошли хорошо. Сам товар отличного качества",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 36033,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.30051716700108955,
+      "input_tokens": 203,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 48911,
+    "text": "маломерка писать точнее размеры.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 48911,
+      "raw": "[\"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy"
+      ],
+      "seconds": 0.2507316249975702,
+      "input_tokens": 182,
+      "output_tokens": 3
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "surprise"
+    ]
+  },
+  {
+    "id": 6915,
+    "text": "Утепление кусками, даже на свет пустоты.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 6915,
+      "raw": "[\"surprise\"]",
+      "valid": true,
+      "labels": [
+        "surprise"
+      ],
+      "seconds": 0.2651592920010444,
+      "input_tokens": 187,
+      "output_tokens": 4
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "surprise",
+      "fear"
+    ]
+  },
+  {
+    "id": 42256,
+    "text": "на первый взгляд юбка очень классная - ткань, крой  \r\nно молния подкачала, будьте осторожны - рискуете оказаться без юбки в самый неподходящий момент",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 42256,
+      "raw": "[\"joy\", \"fear\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "fear"
+      ],
+      "seconds": 0.3510570829967037,
+      "input_tokens": 226,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise",
+      "fear"
+    ]
+  },
+  {
+    "id": 9769,
+    "text": "Белые трусы вообще выбросить можно.Ладно размер маловат оказался,  S это 42 а не 44!Пошив ужасный:и спереди кружево пришито неравномерно по бокам и сзади тоже,  плюс дырка на попе.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 9769,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3504582079985994,
+      "input_tokens": 254,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 62564,
+    "text": "Отличная маечка. По качеству нареканий нет. На 48 размер, 4 грудь и рост 173 - выше пупка. Тянется хорошо, так что носить очень даже можно. Не просвечивает. Закажу ещё в других цветах.",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 62564,
+      "raw": "[\"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.3418203330002143,
+      "input_tokens": 240,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 24706,
+    "text": "Платье не понравилось. Выглядит очень по-барахольному.\r\r\nКошмар какой-то. Как будто тело пополам разрубили.\r\r\nДаже фоткать не буду.\r\r\n\r\r\nИнтересные видеообзоры товаров смотрите на моем YouTube канале \"Посылка из Китая\"\r\r\nСсылка (удалите пробел перед точкой) www .fromchinaparcel.ru",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 24706,
+      "raw": "[\"sadness\", \"fear\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "fear"
+      ],
+      "seconds": 0.3688674169970909,
+      "input_tokens": 273,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise",
+      "fear",
+      "anger"
+    ]
+  },
+  {
+    "id": 32680,
+    "text": "Не плохо , но и не в восторге. Очень легкая куртка, больше как жакет. ",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 32680,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.31144108400621917,
+      "input_tokens": 198,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": []
+  },
+  {
+    "id": 9922,
+    "text": "Рукава по щиколотку, продавец возвращать деньги отказался, носить куртку не возможно, берите на два а то и три размера больше ",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 9922,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.31996220799919683,
+      "input_tokens": 216,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise",
+      "anger"
+    ]
+  },
+  {
+    "id": 57996,
+    "text": "материал довольно тонкий, я ,глядя на фото рассчитывала,что это будет теплая вещь, но оказалось,что это как майка. материал тонкий,не тёплый,относительно теплым можно считать элементы декора _ вот они вязанные, а все остальное - сшито как из майки. При этом крой хороший, не точат нитки, размер совпадает.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 57996,
+      "raw": "[\"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.36528529199858895,
+      "input_tokens": 275,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 33465,
+    "text": "не соответствие заявленного размера",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 33465,
+      "raw": "[\"surprise\"]",
+      "valid": true,
+      "labels": [
+        "surprise"
+      ],
+      "seconds": 0.25205149999965215,
+      "input_tokens": 179,
+      "output_tokens": 4
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": []
+  },
+  {
+    "id": 13205,
+    "text": "1. ткань неприятная, плотная\r\n2. никакими складками оно не ложится. совершенно не драпируется ни лиф, ни юбка, ни уж тем более рукава\r\n3. рукава вообще сущий кошмар, смотреть больно\r\n4. неприятный запах\r\n5. совершенно не стоит шестисот рублей и полутора месяцев ожидания\r\n6. торчат нитки",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 13205,
+      "raw": "[\"sadness\", \"joy\", \"surprise\", \"fear\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness",
+        "surprise",
+        "fear"
+      ],
+      "seconds": 0.4416008329935721,
+      "input_tokens": 281,
+      "output_tokens": 15
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise",
+      "fear"
+    ]
+  },
+  {
+    "id": 55821,
+    "text": "выглядит как в описании ,липкий слой не\r\n очень хорошо держит.продавец отправлял долго. \r\nэффект пуш-ап будет только на молодой идеальной груди,одевать только под облегающие вещи,отдала сестре\r\nдля жаркой погоды может не подойти.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 55821,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.350024334002228,
+      "input_tokens": 252,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 59314,
+    "text": "Фото только с верхней стороны. Снизу - белая линия",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 59314,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.28274370900180656,
+      "input_tokens": 190,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "surprise"
+    ]
+  },
+  {
+    "id": 25363,
+    "text": "заказывала XL. пришёл М. еле еле влезла. вместо зелёного - выслали серый. очень неприятно. внимательнее нужно быть!!!",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 25363,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3220632500015199,
+      "input_tokens": 216,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "fear"
+    ]
+  },
+  {
+    "id": 65555,
+    "text": "получила это бархотное чудо, очень приятное к телу и цвет очень красивый, немного темнее чем на фото, но очень красиво. спасибо",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 65555,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.30031108299590414,
+      "input_tokens": 211,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 51004,
+    "text": "Посылка шла до Тюм. обл. около месяца. Рубашка пришла маленькая на 1 размер меньше. Заказала L хотя нашу М. и не угадала с размерами. Очень тесная в груди. И после стирки швы стали расходиться. По этому снижаю до 3 звезд. Не рекомендую товар.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 51004,
+      "raw": "[\"sadness\", \"anger\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "anger"
+      ],
+      "seconds": 0.3564029999979539,
+      "input_tokens": 262,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 6901,
+    "text": "Товар пришел быстро! Размер подошел. Качество ткани хорошее, но оказалось в рукаве не прошито! Т.е. с дыркой по шву в 4 см!  На фото видно, что тупо не прошито по шву! Попробую открыть спор! Потом добавлю комментарий!",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 6901,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.3608376250049332,
+      "input_tokens": 260,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise",
+      "anger"
+    ]
+  },
+  {
+    "id": 39069,
+    "text": "Заказала 11.11 пришли в Краснодар 15.01. Качество так себе. В принципе на эту сумму и тянет!... ничего не утягивают, даже немного болтаются, хотя в размер и резинка слишком заниженна, в них особо не позанимаешься в тренажёрном зале... то что на картинке лосины и в жизни, это небо и земля... ",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 39069,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3866337500003283,
+      "input_tokens": 283,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise",
+      "fear"
+    ]
+  },
+  {
+    "id": 22730,
+    "text": "Заказ получили 10 октября Белгородская обл., заказала 30 августа. Очень тонкая ткань, на шерсть не совсем похоже.  Сшито куда зря, карманы пришиты не аккуратно, резинка на одном рукаве растянута, а на другом нормальная. Швы на плечах вообще не удобные, низко расположены и давят. Я не довольна покупкой. За 678,25 руб купила тряпку. По размеру подошло. Фото выложить нет возможности, поэтому спор открывать не стала. Не рекомендую",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 22730,
+      "raw": "[\"sadness\", \"anger\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "anger"
+      ],
+      "seconds": 0.43023741600336507,
+      "input_tokens": 328,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 60385,
+    "text": "Мой отзыв https://m.itao.com/detail/show.htm?postId=3000005201993330&lang=ru",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 60385,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.32423137500154553,
+      "input_tokens": 206,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 47009,
+    "text": "Материал не содержит эластана. Это просто капрон, следовательно, не эластично, не держит форму и очень скользит)",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 47009,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3284118750016205,
+      "input_tokens": 208,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 24679,
+    "text": "Товар так и не пришел. Продавец отказывался продлевать защиту. Отвратительный продавец! Отказывался вернуть деньги!",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 24679,
+      "raw": "[\"sadness\", \"anger\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "anger"
+      ],
+      "seconds": 0.3184994170005666,
+      "input_tokens": 211,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "sadness",
+      "anger"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "fear",
+      "anger"
+    ]
+  },
+  {
+    "id": 24758,
+    "text": "платье не желтого,а грязно- телесного цвета, нитки белые . ношу размер М,на платье написано М, но это XXS. очень обидно",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 24758,
+      "raw": "[\"sadness\", \"anger\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "anger"
+      ],
+      "seconds": 0.31353683400084265,
+      "input_tokens": 221,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 2050,
+    "text": "Товар я так и не получила. Спор открыть не успела, поэтому деньги не вернулись.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 2050,
+      "raw": "[\"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness"
+      ],
+      "seconds": 0.2704672079999,
+      "input_tokens": 196,
+      "output_tokens": 4
+    },
+    "tfidf_word": [
+      "sadness",
+      "fear",
+      "anger"
+    ],
+    "tfidf_char": [
+      "sadness",
+      "fear",
+      "anger"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "anger"
+    ]
+  },
+  {
+    "id": 30228,
+    "text": "размер подошел но левый рукав завязан был узлом развязала а там порвато сантиметра три и ещё не пошву а рядом",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 30228,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.3084904589995858,
+      "input_tokens": 210,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 7313,
+    "text": "Товар не пришел.Продавец отказался вернуть деньги.После вмешательства Алиэкспресс деньги вернули.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 7313,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.31176104200130794,
+      "input_tokens": 207,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "anger"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "anger"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "anger"
+    ]
+  },
+  {
+    "id": 65983,
+    "text": "кофточка очень легкая.На лето очень хорошо.Я довольна",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 65983,
+      "raw": "[\"joy\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy"
+      ],
+      "seconds": 0.2671424170039245,
+      "input_tokens": 189,
+      "output_tokens": 6
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 23573,
+    "text": "Товар был отправлен на неправильный адрес. По месту назначения так и не прибыл.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 23573,
+      "raw": "[\"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness"
+      ],
+      "seconds": 0.2820032499948866,
+      "input_tokens": 197,
+      "output_tokens": 4
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness"
+    ]
+  },
+  {
+    "id": 32948,
+    "text": "The colour in the middle is not blue, its grey. The quality is poor and its also very short.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 32948,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.28588583300006576,
+      "input_tokens": 193,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 59173,
+    "text": "Заказала 2 штуки. Серый и чёрный. Синтетика. Знала, не купила бы. И на рост 168 рукава короткое. ",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 59173,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.3001807920009014,
+      "input_tokens": 220,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 82911,
+    "text": "очень клевые джинсы...Без ниток и запаха, все целое.Цвет красивый.Продавец молодец все быстро отправил и подарочек положил( браслетик)",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 82911,
+      "raw": "[\"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.32391558299423195,
+      "input_tokens": 219,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 41894,
+    "text": "Товар пришёл быстро, чуть больше 2 недель, это конечно порадовало. \r\nНо сами колготки разочаровали, блёстки осыпаются. Ещё пару раз их надену и вообще блёсток не останется",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 41894,
+      "raw": "[\"joy\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "sadness"
+      ],
+      "seconds": 0.3573515000025509,
+      "input_tokens": 236,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 363,
+    "text": "Выглядит совсем не так как на фото! Качество за такие деньги могло быть лучше(( в пакете с кофтой попались остатки ниток(",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 363,
+      "raw": "[\"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.3230805830025929,
+      "input_tokens": 209,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness"
+    ]
+  },
+  {
+    "id": 34777,
+    "text": "теплые брюки но верх пришит так что из за загибов толстого материала на бедрах получается будто есть ушки.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 34777,
+      "raw": "[\"joy\", \"surprise\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.3065724580010283,
+      "input_tokens": 210,
+      "output_tokens": 7
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 84884,
+    "text": "Отлично сел, закажу ещё других цветов",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 84884,
+      "raw": "[\"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy"
+      ],
+      "seconds": 0.2387180410005385,
+      "input_tokens": 184,
+      "output_tokens": 3
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 27852,
+    "text": "товар не отслеживался, не дошёл, спор не могли долгое время открыть",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 27852,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.306490291004593,
+      "input_tokens": 197,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  },
+  {
+    "id": 39352,
+    "text": "Куртка широкая, большемерит, при этом талия не на месте.  На мой М , размер М Болтшой в ширину, по длине норм, для роста 160, для тех, кто выше , рукава  будут короткие . Мех разной длины со всех сторон. Тяжелая. Не самая лучшая покупка.",
+    "sentiment": "neutral",
+    "split": "test",
+    "teacher": {
+      "id": 39352,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3706653749977704,
+      "input_tokens": 265,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 12329,
+    "text": "качество не такое, какое ожидалось! это самая ужасная вещь, которую я только заказывала на али, пришло быстро, но вот качество подкачало",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 12329,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3231599579958129,
+      "input_tokens": 213,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise",
+      "fear"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise",
+      "fear"
+    ]
+  },
+  {
+    "id": 7627,
+    "text": "Размер не соответствует вообще. 108 это на 46-48 Российский. Размер не подошёл.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 7627,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.31939175000297837,
+      "input_tokens": 200,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy",
+      "surprise"
+    ]
+  },
+  {
+    "id": 71023,
+    "text": "Кофточка дошла, в срок, качество хорошее,,трекотаж, все подошло! Спасибо продавца рекомендую!!!",
+    "sentiment": "positive",
+    "split": "test",
+    "teacher": {
+      "id": 71023,
+      "raw": "[\"joy\", \"surprise\", \"joy\"]",
+      "valid": true,
+      "labels": [
+        "joy",
+        "surprise"
+      ],
+      "seconds": 0.33840333400439704,
+      "input_tokens": 208,
+      "output_tokens": 10
+    },
+    "tfidf_word": [
+      "joy",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "joy"
+    ]
+  },
+  {
+    "id": 15372,
+    "text": "Ребята, это жесть. специально заказала на размер больше, в надежде, что талия будет на месте, что я смогу просто по бокам ушить. но это платье рассчитано, наверное, на девушек, у которых талия начинается сразу под грудью.  Теперь фиг знает, что с этим платьем делать, ушить-то я смогла бы, а как талию снизить, не знаю.",
+    "sentiment": "negative",
+    "split": "test",
+    "teacher": {
+      "id": 15372,
+      "raw": "[\"surprise\", \"sadness\"]",
+      "valid": true,
+      "labels": [
+        "sadness",
+        "surprise"
+      ],
+      "seconds": 0.3733661660007783,
+      "input_tokens": 280,
+      "output_tokens": 8
+    },
+    "tfidf_word": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "tfidf_char": [
+      "joy",
+      "sadness",
+      "surprise"
+    ],
+    "rubert_frozen": [
+      "sadness",
+      "surprise"
+    ]
+  }
+]

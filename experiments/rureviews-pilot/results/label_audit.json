@@ -1,0 +1,37 @@
+{
+  "valid_total": 395,
+  "invalid_total": 85,
+  "per_split": {
+    "train": {
+      "valid": 265,
+      "counts": {
+        "joy": 168,
+        "sadness": 133,
+        "surprise": 159,
+        "fear": 27,
+        "anger": 13
+      }
+    },
+    "val": {
+      "valid": 65,
+      "counts": {
+        "joy": 29,
+        "sadness": 43,
+        "surprise": 42,
+        "fear": 10,
+        "anger": 5
+      }
+    },
+    "test": {
+      "valid": 65,
+      "counts": {
+        "joy": 36,
+        "sadness": 38,
+        "surprise": 41,
+        "fear": 4,
+        "anger": 6
+      }
+    }
+  },
+  "empty_valid": 0
+}
